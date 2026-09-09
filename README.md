@@ -2,4 +2,8 @@ List of Problems:
 
 www.codeforces.com
 
-000     492B        Vanta and Lanterns      solved
+| # | Name | Rating | Date |
+|---|------|--------|------|
+| 0-492B | Vanya and Lanterns | 1200 | 2026-09-08 |
+| 1-466A | Cheap Travel | 1200 | 2026-09-09 |
+| 2-514A | Chewbacca and Number | 1200 | 2026-09-09 |

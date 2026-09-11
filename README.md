@@ -10,4 +10,8 @@ www.codeforces.com
 | 3-1352C | K-th not Divisible by n | 1200 | 2026-09-10 |
 | 4-1520D | Same Differences | 1200 | 2026-09-10 |
 | 5-474B | Worms | 1200 | 2026-09-10 |
+| 6-489B | BerSU Ball | 1200 | 2026-09-11 |
+| 7-433B | Kuriyama Mirai's Stones | 1200 | 2026-09-11 |
+| 8-327A | Flipping Game | 1200 | 2026-09-11 |
+| 9-1352B | Same Parity Summands | 1200 | 2026-09-11 |
 

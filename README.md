@@ -18,4 +18,7 @@ www.codeforces.com
 | 11-977C | Less or Equal | 1200 | 2026-09-12 | |
 | 12-1343C | Alternating Subsequence | 1200 | 2026-09-12 | |
 | 13-1872D | Plus Minus Permutation | 1200 | 2026-09-12 | |
+| 14-1742E | Scuza | 1200 | 2026-09-13 | |
+| 15-1914D | Three Activities | 1200 | 2026-09-13 | * |
+| 16-1363A | Odd Selection | 1200 | 2026-09-13 | * |
 

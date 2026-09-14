@@ -2,6 +2,8 @@ List of Problems:
 
 www.codeforces.com
 
+* = Intresting in Idea , TLE Handling and ...
+
 | # | Name | Rating | Date | * |
 |---|------|--------|------|---|
 | 0-492B | Vanya and Lanterns | 1200 | 2026-09-08 | |
@@ -21,4 +23,6 @@ www.codeforces.com
 | 14-1742E | Scuza | 1200 | 2026-09-13 | |
 | 15-1914D | Three Activities | 1200 | 2026-09-13 | * |
 | 16-1363A | Odd Selection | 1200 | 2026-09-13 | * |
+| 17-1541B | Pleasant Pairs | 1200 | 2026-09-13 | * |
+| 18-1420B | Rock and Lever | 1200 | 2026-09-13 | * |
 

@@ -26,5 +26,8 @@ www.codeforces.com
 | 17-1541B | Pleasant Pairs | 1200 | 2026-09-14 | * |
 | 18-1420B | Rock and Lever | 1200 | 2026-09-14 | * |
 | 19-1832C | Contrast Value | 1200 | 2026-09-15 | |
-| 20-1097B | Petr and a Combination Lock | 1200 | 2026-09-15 | |
+| 20-1097B | Petr and a Combination Lock | 1200 | 2026-09-15 | * |
+| 21-1514B | AND 0, Sum Big | 1200 | 2026-09-16 | |
+| 22-459A | Pashmak and Garden | 1200 | 2026-09-16 | |
+| 23-1527B1 | Palindrome Game (easy version) | 1200 | 2026-09-16 | |
 

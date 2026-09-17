@@ -30,4 +30,5 @@ www.codeforces.com
 | 21-1514B | AND 0, Sum Big | 1200 | 2026-09-16 | |
 | 22-459A | Pashmak and Garden | 1200 | 2026-09-16 | |
 | 23-1527B1 | Palindrome Game (easy version) | 1200 | 2026-09-16 | |
+| 24-1692E | Binary Deque | 1200 | 2026-09-17 | |
 

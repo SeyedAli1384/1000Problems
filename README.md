@@ -1,3 +1,6 @@
+I trying to solve 1000 Code-Forces's problems.
+Cause it is too much for me , i try to at least solve 1 Problem everday , although it depend on that day , how much hard the Problem is but i try mybest , also i am not master in cpp coding so i get help from Ai(GPT) but the type of help i can get is like "how to Sort ,TLE handling , ..." this project is for Myself to get better at problem solving.
+
 List of Problems:
 
 www.codeforces.com
@@ -31,4 +34,6 @@ www.codeforces.com
 | 22-459A | Pashmak and Garden | 1200 | 2026-09-16 | |
 | 23-1527B1 | Palindrome Game (easy version) | 1200 | 2026-09-16 | |
 | 24-1692E | Binary Deque | 1200 | 2026-09-17 | |
+| 25-1793C | Dora and Search | 1200 | 2026-09-18 | |
+| 26-1354B | Ternary String | 1200 | 2026-09-18 | |
 

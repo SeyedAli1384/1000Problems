@@ -36,4 +36,7 @@ www.codeforces.com
 | 24-1692E | Binary Deque | 1200 | 2026-09-17 | |
 | 25-1793C | Dora and Search | 1200 | 2026-09-18 | |
 | 26-1354B | Ternary String | 1200 | 2026-09-18 | |
+| 27-1909B | Make Almost Equal with Mod | 1200 | 2026-09-19 | * |
+| 28-1790D | Matryoshkas | 1200 | 2026-09-19 | * |
+| 29-445A | DZY Loves Chessboard | 1200 | 2026-09-19 | |
 

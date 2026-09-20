@@ -39,4 +39,6 @@ www.codeforces.com
 | 27-1909B | Make Almost Equal with Mod | 1200 | 2026-09-19 | * |
 | 28-1790D | Matryoshkas | 1200 | 2026-09-19 | * |
 | 29-445A | DZY Loves Chessboard | 1200 | 2026-09-19 | |
+| 30-1539C | Stable Groups | 1200 | 2026-09-20 | * |
+
 

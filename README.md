@@ -40,5 +40,6 @@ www.codeforces.com
 | 28-1790D | Matryoshkas | 1200 | 2026-09-19 | * |
 | 29-445A | DZY Loves Chessboard | 1200 | 2026-09-19 | |
 | 30-1539C | Stable Groups | 1200 | 2026-09-20 | * |
-
+| 31-1926C | Vlad and a Sum of Sum of Digits | 1200 | 2026-09-21 | |
+| 32-1399C | Boats Competition | 1200 | 2026-09-21 | |
 

@@ -42,4 +42,7 @@ www.codeforces.com
 | 30-1539C | Stable Groups | 1200 | 2026-09-20 | * |
 | 31-1926C | Vlad and a Sum of Sum of Digits | 1200 | 2026-09-21 | |
 | 32-1399C | Boats Competition | 1200 | 2026-09-21 | |
+| 33-1328C | Ternary XOR | 1200 | 2026-09-22 | |
+| 34-1729D | Friends and the Restaurant | 1200 | 2026-09-22 | |
+| 35-1808B | Playing in a Casino | 1200 | 2026-09-22 | * |
 

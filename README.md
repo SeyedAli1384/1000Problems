@@ -45,4 +45,7 @@ www.codeforces.com
 | 33-1328C | Ternary XOR | 1200 | 2026-09-22 | |
 | 34-1729D | Friends and the Restaurant | 1200 | 2026-09-22 | |
 | 35-1808B | Playing in a Casino | 1200 | 2026-09-22 | * |
+| 36-1433D | Districts Connection | 1200 | 2026-09-23 | |
+| 37-1364A | XXXXX | 1200 | 2026-09-23 | * |
+| 38-1272C | Yet Another Broken Keyboard | 1200 | 2026-09-23 | |
 

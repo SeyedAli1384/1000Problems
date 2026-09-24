@@ -48,4 +48,8 @@ www.codeforces.com
 | 36-1433D | Districts Connection | 1200 | 2026-09-23 | |
 | 37-1364A | XXXXX | 1200 | 2026-09-23 | * |
 | 38-1272C | Yet Another Broken Keyboard | 1200 | 2026-09-23 | |
+| 39-1613C | Poisoned Dagger | 1200 | 2026-09-24 | * |
+| 40-4C | Registration System | 1300 | 2026-09-24 | |
+| 41-25A | IQ Test | 1300 | 2026-09-24 | |
+| 42-230B | T-Primes | 1300 | 2026-09-24 | |
 

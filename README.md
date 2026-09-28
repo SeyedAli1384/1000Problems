@@ -52,4 +52,10 @@ www.codeforces.com
 | 40-4C | Registration System | 1300 | 2026-09-24 | |
 | 41-25A | IQ Test | 1300 | 2026-09-24 | |
 | 42-230B | T-Primes | 1300 | 2026-09-24 | |
+| 43-189A | Cut Ribbon | 1300 | 2026-09-26 | * |
+| 44-451B | Sort The Array | 1300 | 2026-09-26 | |
+| 45-1294C | Product of three Numbers | 1300 | 2026-09-26 | |
+| 46-459B | Pashmak and Flowers | 1300 | 2026-09-28 | |
+| 47-1360D | Buying Shovels | 1300 | 2026-09-28 | |
+| 48-278B | Random Teams | 1300 | 2026-09-28 | |
 

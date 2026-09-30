@@ -1,9 +1,13 @@
 I trying to solve 1000 Code-Forces's problems.
 Cause it is too much for me , i try to at least solve 1 Problem everday , although it depend on that day , how much hard the Problem is but i try mybest , also i am not master in cpp coding so i get help from Ai(GPT) but the type of help i can get is like "how to Sort ,TLE handling , ..." this project is for Myself to get better at problem solving.
 
+www.codeforces.com
+
 List of Problems:
 
-www.codeforces.com
+# from 0-39 = Rating 1200
+# from 40-79 = Rating 1300
+# from 80-119 = Rating 1400
 
 * = Intresting in Idea , TLE Handling and ...
 
@@ -58,4 +62,7 @@ www.codeforces.com
 | 46-459B | Pashmak and Flowers | 1300 | 2026-09-28 | |
 | 47-1360D | Buying Shovels | 1300 | 2026-09-28 | |
 | 48-278B | Random Teams | 1300 | 2026-09-28 | |
+| 49-600B | Queries about less or equal elements | 1300 | 2026-09-30 | |
+| 50-1372B | Omkar and Last Class of Math | 1300 | 2026-09-30 | |
+| 51-476B | Dreamoon and WiFi | 1300 | 2026-09-30 | |
 

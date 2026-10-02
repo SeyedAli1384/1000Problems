@@ -65,4 +65,6 @@ List of Problems:
 | 49-600B | Queries about less or equal elements | 1300 | 2026-09-30 | |
 | 50-1372B | Omkar and Last Class of Math | 1300 | 2026-09-30 | |
 | 51-476B | Dreamoon and WiFi | 1300 | 2026-09-30 | |
+| 52-1915E | Romantic Glasses | 1300 | 2026-10-02 | |
+| 53-1538C | Numbers of Pairs | 1300 | 2026-10-02 | |
 

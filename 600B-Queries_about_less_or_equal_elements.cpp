@@ -18,7 +18,6 @@ int main() {
     for (int x : b) {
         int l = 0, r = n;
 
-        // Find first position where a[pos] > x
         while (l < r) {
             int mid = l + (r - l) / 2;
 

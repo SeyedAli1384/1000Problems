@@ -67,4 +67,7 @@ List of Problems:
 | 51-476B | Dreamoon and WiFi | 1300 | 2026-09-30 | |
 | 52-1915E | Romantic Glasses | 1300 | 2026-10-02 | |
 | 53-1538C | Numbers of Pairs | 1300 | 2026-10-02 | |
+| 54-1927D | Find the Different ones! | 1300 | 2026-10-03 | |
+| 55-1931D | Divisible Pairs | 1300 | 2026-10-03 | * |
+| 56-1285B | Just Eat It! | 1300 | 2026-10-03 | * |
 

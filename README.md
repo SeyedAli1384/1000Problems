@@ -70,4 +70,6 @@ List of Problems:
 | 54-1927D | Find the Different ones! | 1300 | 2026-10-03 | |
 | 55-1931D | Divisible Pairs | 1300 | 2026-10-03 | * |
 | 56-1285B | Just Eat It! | 1300 | 2026-10-03 | * |
+| 57-1703F | Yet Another problem about Pairs Satisfying an Inequality | 1300 | 2026-10-04 | |
+| 58-276B | Little Girl and Game | 1300 | 2026-10-04 | |
 

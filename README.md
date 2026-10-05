@@ -72,4 +72,7 @@ List of Problems:
 | 56-1285B | Just Eat It! | 1300 | 2026-10-03 | * |
 | 57-1703F | Yet Another problem about Pairs Satisfying an Inequality | 1300 | 2026-10-04 | |
 | 58-276B | Little Girl and Game | 1300 | 2026-10-04 | |
+| 59-1328B | K-th Beautiful String | 1300 | 2026-10-05 | |
+| 60-1669H | Maximal AND | 1300 | 2026-10-05 | * |
+| 61-1857D | Stong Vertics | 1300 | 2026-10-05 | |
 

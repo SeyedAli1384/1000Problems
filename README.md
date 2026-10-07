@@ -75,4 +75,8 @@ List of Problems:
 | 59-1328B | K-th Beautiful String | 1300 | 2026-10-05 | |
 | 60-1669H | Maximal AND | 1300 | 2026-10-05 | * |
 | 61-1857D | Stong Vertics | 1300 | 2026-10-05 | |
+| 62-1470A | Strange Birthday Party | 1300 | 2026-10-06 | |
+| 63-2275A | In Search of Convenience | Round 1125 | 2026-10-07 | |
+| 64-2275B | Did not Go to Print | Round 1125 | 2026-10-07 | * |
+| 65-2275C | Unrequited Love | Round 1125 | 2026-10-07 | * |
 

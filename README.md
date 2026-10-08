@@ -79,4 +79,6 @@ List of Problems:
 | 63-2275A | In Search of Convenience | Round 1125 | 2026-10-07 | |
 | 64-2275B | Did not Go to Print | Round 1125 | 2026-10-07 | * |
 | 65-2275C | Unrequited Love | Round 1125 | 2026-10-07 | * |
+| 66-1881D | Divide and Equalize | 1300 | 2026-10-08 | * |
+| 67-1352D | Alice, Bob and Candies | 1300 | 2026-10-08 | |
 

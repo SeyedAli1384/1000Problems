@@ -81,4 +81,8 @@ List of Problems:
 | 65-2275C | Unrequited Love | Round 1125 | 2026-10-07 | * |
 | 66-1881D | Divide and Equalize | 1300 | 2026-10-08 | * |
 | 67-1352D | Alice, Bob and Candies | 1300 | 2026-10-08 | |
-
+| 68-2276A | Perfect Sandwiches | Educational CF Round 195 | 2026-10-14 | |
+| 69-2276B | Replace and Compress | Educational CF Round 195 | 2026-10-14 | |
+| 70-2276C | Subarrays | Educational CF Round 195 | 2026-10-14 | * |
+| 71-2276D | Caveman | Educational CF Round 195 | 2026-10-14 | * |
+| 72-2276E | Good Substrings | Educational CF Round 195 | 2026-10-14 | * |

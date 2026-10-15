@@ -86,3 +86,5 @@ List of Problems:
 | 70-2276C | Subarrays | Educational CF Round 195 | 2026-10-14 | * |
 | 71-2276D | Caveman | Educational CF Round 195 | 2026-10-14 | * |
 | 72-2276E | Good Substrings | Educational CF Round 195 | 2026-10-14 | * |
+| 73-545D | Queue | 1300 | 2026-10-15 | |
+| 74-1366B | Shuffle | 1300 | 2026-10-15 | |
